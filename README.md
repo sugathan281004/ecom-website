@@ -35,10 +35,13 @@ This project is a web-based ecommerce application built with Thymeleaf, Bootstra
 
 ## Technologies Used
 
-- **Java Spring Framework** for backend services
-- **Thymeleaf** for server-side rendering
-- **Bootstrap 5** for frontend styling
-- **MySQL** for database management
+Here are some of the technologies listed in the image and their one-word uses:
+- **Java**: Programming
+- **SpringBoot**: Framework
+- **JPA**: Persistence
+- **Hibernate**: ORM
+- **Thymeleaf**: Templating
+- **Postgresql**: Database
 
 ## Installation
 
@@ -53,7 +56,7 @@ This project is a web-based ecommerce application built with Thymeleaf, Bootstra
 3. Configure the database:
    - Update the `application.properties` file with your database credentials.
    ```properties
-   spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce
+   spring.datasource.url=jdbc:postgresql://localhost:5432/ecommerce
    spring.datasource.username=your_username
    spring.datasource.password=your_password
    ```
@@ -81,12 +84,12 @@ This project is a web-based ecommerce application built with Thymeleaf, Bootstra
 
 ### Admin
 
-- **Email:** [johnwick@gmail.com](mailto\:johnwick@gmail.com)
+- **Email:** [johnwick@gmail.com](mailto:johnwick@gmail.com)
 - **Password:** qwerty
 
 ### User
 
-- **Email:** [smith@gmail.com](mailto\:smith@gmail.com)
+- **Email:** [smith@gmail.com](mailto:smith@gmail.com)
 - **Password:** qwerty
 
 ## Contributing
@@ -116,7 +119,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
 
-Maintainer: [p.suganthan04@gmail.com](mailto\:p.suganthan04@gmail.com)
+Maintainer: [p.suganthan04@gmail.com](mailto:p.suganthan04@gmail.com)
 
 Feel free to reach out with any questions or suggestions!
 
