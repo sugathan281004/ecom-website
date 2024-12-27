@@ -35,13 +35,14 @@ This project is a web-based ecommerce application built with Thymeleaf, Bootstra
 
 ## Technologies Used
 
-Here are some of the technologies listed in the image and their one-word uses:
-- **Java**: Programming
-- **SpringBoot**: Framework
-- **JPA**: Persistence
-- **Hibernate**: ORM
-- **Thymeleaf**: Templating
-- **Postgresql**: Database
+This project leverages the following technologies:
+
+- **Java**: Core programming language for application logic.
+- **Spring Boot**: Framework for creating the backend services and RESTful APIs.
+- **JPA (Java Persistence API)**: For database interaction and persistence handling.
+- **Hibernate**: ORM (Object-Relational Mapping) tool for managing data between Java objects and the database.
+- **Thymeleaf**: Server-side templating engine for rendering dynamic HTML pages.
+- **PostgreSQL**: Relational database for storing and managing application data.
 
 ## Installation
 
